@@ -56,11 +56,11 @@ This repository contains a .NET console application that performs three tasks in
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/console-application.git
-Open the Solution in Visual Studio:
+## Open the Solution in Visual Studio:
 Open ConsoleApplication.sln in Visual Studio.
-Build the Solution:
+## Build the Solution:
 Restore NuGet packages and build the solution.
-Set Up the Database:
+## Set Up the Database:
 Use the EF migrations to create and seed the database.
-Run the Application:
+## Run the Application:
 Set the console application as the startup project and run it.
