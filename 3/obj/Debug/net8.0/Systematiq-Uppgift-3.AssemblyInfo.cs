@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Systematiq-Uppgift-3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a567d16f5768749fb080bfae16a324e0c647913d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca485f4e1a711006c18649485be85b8e6f8e494e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Systematiq-Uppgift-3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Systematiq-Uppgift-3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

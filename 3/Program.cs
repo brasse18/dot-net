@@ -17,10 +17,12 @@ class Uppgift_tre
         }
         Console.WriteLine("Ineholet i listan just nu:");
         PrintArr(numbers);
+        Console.WriteLine("");
         Console.WriteLine("Blandar listan");
         numbers = MixArr(numbers);
         Console.WriteLine("Ineholet i listan just nu:");
         PrintArr(numbers);
+        Console.WriteLine("");
         Console.WriteLine("Skriver ut den i bokstavsordning på svenska:");
         PrintIntArrToWordsInOrder(numbers);
     }
