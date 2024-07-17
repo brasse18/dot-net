@@ -10,6 +10,15 @@ This repository contains a .NET console application that performs three tasks in
 
 ## Tasks Overview
 
+### Exempel output from Task 1 and 2
+
+### VM i kompilering
+- **Deltagare:** Gostav
+- **Deltagare:** Björn
+
+### SM i minnesträning
+- **Deltagare:** Nadja
+
 ### Task 1: Data Retrieval Using Entity Framework
 
 - **Goal:** Retrieve and display competition data from a database using Entity Framework (EF).
