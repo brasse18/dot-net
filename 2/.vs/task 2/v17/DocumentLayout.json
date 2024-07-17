@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brass\\Documents\\code\\task 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D025A3EC-84AF-42C2-BDA7-6D3DA0A06D6E}|task 2.csproj|c:\\users\\brass\\documents\\code\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D025A3EC-84AF-42C2-BDA7-6D3DA0A06D6E}|task 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D025A3EC-84AF-42C2-BDA7-6D3DA0A06D6E}|task 2.csproj|c:\\users\\brass\\documents\\code\\task 2\\insert_data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D025A3EC-84AF-42C2-BDA7-6D3DA0A06D6E}|task 2.csproj|solutionrelative:insert_data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D025A3EC-84AF-42C2-BDA7-6D3DA0A06D6E}|task 2.csproj|c:\\users\\brass\\documents\\code\\task 2\\create_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{D025A3EC-84AF-42C2-BDA7-6D3DA0A06D6E}|task 2.csproj|solutionrelative:create_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D025A3EC-84AF-42C2-BDA7-6D3DA0A06D6E}|task 2.csproj|c:\\users\\brass\\documents\\code\\task 2\\create_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D025A3EC-84AF-42C2-BDA7-6D3DA0A06D6E}|task 2.csproj|solutionrelative:create_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D025A3EC-84AF-42C2-BDA7-6D3DA0A06D6E}|task 2.csproj|c:\\users\\brass\\documents\\code\\task 2\\insert_data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{D025A3EC-84AF-42C2-BDA7-6D3DA0A06D6E}|task 2.csproj|solutionrelative:insert_data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "insert_data.sql ",
+              "DocumentMoniker": "C:\\Users\\brass\\Documents\\code\\task 2\\insert_data.sql",
+              "RelativeDocumentMoniker": "insert_data.sql",
+              "ToolTip": "C:\\Users\\brass\\Documents\\code\\task 2\\insert_data.sql",
+              "RelativeToolTip": "insert_data.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-17T06:43:07.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "create_tables.sql ",
+              "DocumentMoniker": "C:\\Users\\brass\\Documents\\code\\task 2\\create_tables.sql",
+              "RelativeDocumentMoniker": "create_tables.sql",
+              "ToolTip": "C:\\Users\\brass\\Documents\\code\\task 2\\create_tables.sql",
+              "RelativeToolTip": "create_tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-17T06:42:00.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brass\\Documents\\code\\task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\brass\\Documents\\code\\task 2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T05:42:01.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
