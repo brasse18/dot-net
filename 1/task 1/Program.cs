@@ -15,7 +15,7 @@ class Program
 
         if (!participantRepository.GetAll().Any())
         {
-            participantRepository.Add(new Participant { Name = "Gostav", CompetitionId = 1 });
+            participantRepository.Add(new Participant { Name = "Gustav", CompetitionId = 1 });
             participantRepository.Add(new Participant { Name = "Björn", CompetitionId = 1 });
             participantRepository.Add(new Participant { Name = "Nadja", CompetitionId = 2 });
         }
