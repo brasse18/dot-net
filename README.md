@@ -55,12 +55,12 @@ This repository contains a .NET console application that performs three tasks in
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/console-application.git
+   git clone https://github.com/brasse18/dot-net.git
 ## Open the Solution in Visual Studio:
-Open ConsoleApplication.sln in Visual Studio.
+Open <ConsoleApplication>.sln in Visual Studio.
 ## Build the Solution:
 Restore NuGet packages and build the solution.
 ## Set Up the Database:
-Use the EF migrations to create and seed the database.
+The apps connect to localhost and the database Competition and create tables Competitions and Participants if they are not set up, and add example data if they are empty.
 ## Run the Application:
 Set the console application as the startup project and run it.
