@@ -61,6 +61,6 @@ Open <ConsoleApplication>.sln in Visual Studio.
 ## Build the Solution:
 Restore NuGet packages and build the solution.
 ## Set Up the Database:
-The apps connect to the database Competitions and create tables Competitions and Participants if they are not set up, and add example data if they are empty.
+The apps connect to the database Competition and create tables Competitions and Participants if they are not set up, and add example data if they are empty.
 ## Run the Application:
 Set the console application as the startup project and run it.
