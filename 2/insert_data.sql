@@ -1,4 +1,5 @@
-﻿IF NOT EXISTS (SELECT 1 FROM Competitions)
+﻿-- skiven av Björn Blomberg
+IF NOT EXISTS (SELECT 1 FROM Competitions)
 BEGIN
     INSERT INTO Competitions (Name) VALUES ('VM in Compiling');
     INSERT INTO Competitions (Name) VALUES ('SM in Memmeing');

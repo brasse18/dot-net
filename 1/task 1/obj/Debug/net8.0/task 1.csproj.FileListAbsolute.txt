@@ -51,3 +51,57 @@ C:\Users\brass\Documents\code\task 1\bin\Debug\net8.0\Microsoft.Extensions.Loggi
 C:\Users\brass\Documents\code\task 1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\brass\Documents\code\task 1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\brass\Documents\code\task 1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\task 1.exe
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\task 1.dll.config
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\task 1.deps.json
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\task 1.runtimeconfig.json
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\task 1.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\task 1.pdb
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\EntityFramework.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\System.CodeDom.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\System.Data.SqlClient.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\System.Drawing.Common.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\System.Security.Permissions.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\System.Windows.Extensions.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\DataAccess.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\DomainModel.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\DataAccess.pdb
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\bin\Debug\net8.0\DomainModel.pdb
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.csproj.AssemblyReference.cache
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task_1.Migrations.InitialCreate.resources
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.csproj.GenerateResource.cache
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.AssemblyInfoInputs.cache
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.AssemblyInfo.cs
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.csproj.CoreCompileInputs.cache
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.sourcelink.json
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.csproj.Up2Date
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\refint\task 1.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.pdb
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\task 1.genruntimeconfig.cache
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\1\task 1\obj\Debug\net8.0\ref\task 1.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xFuKX2ZedTw=",
+  "dgSpecHash": "fs8BrAhxnKA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\brass\\Documents\\code\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brass\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\brass\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

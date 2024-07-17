@@ -1,4 +1,5 @@
-﻿namespace DataAccess
+﻿// skiven av Björn Blomberg
+namespace DataAccess
 {
     public class ParticipantRepository
     {

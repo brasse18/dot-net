@@ -1,31 +1,30 @@
-﻿// skive ab Björn Blomberg
-using System;
-
+﻿// skiven av Björn Blomberg
 
 class Uppgift_tre
 {
     static void Main()
     {
-        Console.WriteLine("Uppgift 3");
-        Console.WriteLine("Gör en osorterad lista med heltal från 1 till 25 blandat.");
-        Console.WriteLine("Dessa heltal ska sen skrivas ut till konsolen sorterade efter bokstavsordning på den svenska benämningen av talen.");
+        Console.WriteLine("Task 3");
+        Console.WriteLine("Create an unsorted list of integers from 1 to 25 mixed.");
+        Console.WriteLine("These integers will then be printed to the console sorted alphabetically by their Swedish names.");
         int[] numbers = new int[25];
-        Console.WriteLine("skapar listan");
+        Console.WriteLine("Creating the list");
         for (int i = 0; i < numbers.Length; i++)
         {
             numbers[i] = i + 1;
         }
-        Console.WriteLine("Ineholet i listan just nu:");
+        Console.WriteLine("Current contents of the list:");
         PrintArr(numbers);
         Console.WriteLine("");
-        Console.WriteLine("Blandar listan");
+        Console.WriteLine("Mixing the list");
         numbers = MixArr(numbers);
-        Console.WriteLine("Ineholet i listan just nu:");
+        Console.WriteLine("Current contents of the list:");
         PrintArr(numbers);
         Console.WriteLine("");
-        Console.WriteLine("Skriver ut den i bokstavsordning på svenska:");
+        Console.WriteLine("Printing in alphabetical order in Swedish:");
         PrintIntArrToWordsInOrder(numbers);
     }
+
 
     static void PrintArr(int[] arr)
     {
@@ -58,8 +57,10 @@ class Uppgift_tre
             {21, "tjugoett"}, {22, "tjugotvå"}, {23, "tjugotre"}, {24, "tjugofyra"}, {25, "tjugofem"}
         };
         List<string> words = arr.Select(number => numberToWords[number]).ToList();
-        words.Sort((a, b) => {
-            Func<char, bool> isSwedishChar = (c) => {
+        words.Sort((a, b) =>
+        {
+            Func<char, bool> isSwedishChar = (c) =>
+            {
                 return (c == 'å' || c == 'Å' || c == 'ä' || c == 'Ä' || c == 'ö' || c == 'Ö');
             };
             for (int i = 0; i < Math.Min(a.Length, b.Length); i++)

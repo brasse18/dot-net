@@ -1,4 +1,5 @@
-﻿using DataAccess;
+﻿// skiven av Björn Blomberg
+using DataAccess;
 class Program
 {
     static void Main(string[] args)

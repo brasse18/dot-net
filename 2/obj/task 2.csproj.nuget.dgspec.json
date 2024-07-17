@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brass\\Documents\\code\\task 2\\task 2.csproj": {}
+    "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\2\\task 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brass\\Documents\\code\\task 2\\task 2.csproj": {
+    "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\2\\task 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brass\\Documents\\code\\task 2\\task 2.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\2\\task 2.csproj",
         "projectName": "task 2",
-        "projectPath": "C:\\Users\\brass\\Documents\\code\\task 2\\task 2.csproj",
+        "projectPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\2\\task 2.csproj",
         "packagesPath": "C:\\Users\\brass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brass\\Documents\\code\\task 2\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

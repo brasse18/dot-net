@@ -1,4 +1,5 @@
-﻿IF OBJECT_ID('Participants', 'U') IS NULL 
+﻿-- skiven av Björn Blomberg
+IF OBJECT_ID('Participants', 'U') IS NULL 
 BEGIN
     CREATE TABLE Participants (
         Id INT PRIMARY KEY IDENTITY(1,1),

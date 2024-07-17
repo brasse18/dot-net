@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brass\\Documents\\code\\DataAccess\\DataAccess.csproj": {}
+    "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brass\\Documents\\code\\DataAccess\\DataAccess.csproj": {
+    "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brass\\Documents\\code\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\brass\\Documents\\code\\DataAccess\\DataAccess.csproj",
+        "projectPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\brass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brass\\Documents\\code\\DataAccess\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\brass\\Documents\\code\\DomainModel\\DomainModel.csproj": {
-                "projectPath": "C:\\Users\\brass\\Documents\\code\\DomainModel\\DomainModel.csproj"
+              "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DomainModel\\DomainModel.csproj": {
+                "projectPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DomainModel\\DomainModel.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\brass\\Documents\\code\\DomainModel\\DomainModel.csproj": {
+    "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DomainModel\\DomainModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brass\\Documents\\code\\DomainModel\\DomainModel.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DomainModel\\DomainModel.csproj",
         "projectName": "DomainModel",
-        "projectPath": "C:\\Users\\brass\\Documents\\code\\DomainModel\\DomainModel.csproj",
+        "projectPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DomainModel\\DomainModel.csproj",
         "packagesPath": "C:\\Users\\brass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brass\\Documents\\code\\DomainModel\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DomainModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
