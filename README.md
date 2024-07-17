@@ -17,7 +17,7 @@ Competition: VM in compiling
   Deltagare:** Gustav
   Deltagare:** Björn
 
-SM i minnesträning
+Competition: SM i minnesträning
   Deltagare:** Nadja
 ```
 
