@@ -1,4 +1,4 @@
-﻿// skiven av Björn Blomberg
+﻿// skriven av Björn Blomberg
 namespace DataAccess
 {
     public class CompetitionRepository

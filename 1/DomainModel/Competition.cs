@@ -1,4 +1,4 @@
-﻿// skiven av Björn Blomberg
+﻿// skriven av Björn Blomberg
 using System.Data.Entity;
 
 public class CompetitionDbContext : DbContext

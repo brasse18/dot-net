@@ -1,4 +1,4 @@
-﻿// skiven av Björn Blomberg
+﻿// skriven av Björn Blomberg
 using DataAccess;
 class Program
 {
