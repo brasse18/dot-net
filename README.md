@@ -12,12 +12,14 @@ This repository contains a .NET console application that performs three tasks in
 
 ### Exempel output from Task 1 and 2
 
-### VM i kompilering
-- **Deltagare:** Gostav
-- **Deltagare:** Björn
+```
+Competition: VM in compiling
+  Deltagare:** Gustav
+  Deltagare:** Björn
 
-### SM i minnesträning
-- **Deltagare:** Nadja
+SM i minnesträning
+  Deltagare:** Nadja
+```
 
 ### Task 1: Data Retrieval Using Entity Framework
 
@@ -30,7 +32,7 @@ This repository contains a .NET console application that performs three tasks in
   1. **Console Application** (.NET Console App)
   2. **Data Access Layer** (Class Library)
   3. **Domain Model** (Class Library with EF entities)
-- **Implementation Approach:** 
+- **Implementation Approach:**
   - Code First with EF to generate database schema from domain models.
   - Use fluent mapping for entity-table mapping and relationship setup.
 - **Data Access Layer Methods:**
@@ -44,7 +46,7 @@ This repository contains a .NET console application that performs three tasks in
 - **Goal:** Retrieve and display competition data using ADO.NET and SQL queries.
 - **Implementation:** Directly within the console application.
 - **Database Connection:** Use `System.Data.SqlClient` for SQL Server Express.
-- **Data Retrieval:** 
+- **Data Retrieval:**
   - Execute SQL queries to fetch data.
   - Use `DataTable` or `DataReader` for data manipulation.
 - **Console Output:** Display the names of all competitions and their participants.

@@ -22,3 +22,28 @@ C:\Users\brass\Documents\code\task 2\obj\Debug\net8.0\task 2.genruntimeconfig.ca
 C:\Users\brass\Documents\code\task 2\obj\Debug\net8.0\ref\task 2.dll
 C:\Users\brass\Documents\code\task 2\bin\Debug\net8.0\create_tables.sql
 C:\Users\brass\Documents\code\task 2\bin\Debug\net8.0\insert_data.sql
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\task 2.exe
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\create_tables.sql
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\insert_data.sql
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\task 2.deps.json
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\task 2.runtimeconfig.json
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\task 2.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\task 2.pdb
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\System.Data.SqlClient.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\task 2.csproj.AssemblyReference.cache
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\task 2.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\task 2.AssemblyInfoInputs.cache
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\task 2.AssemblyInfo.cs
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\task 2.csproj.CoreCompileInputs.cache
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\task 2.sourcelink.json
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\task 2.csproj.Up2Date
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\task 2.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\refint\task 2.dll
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\task 2.pdb
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\task 2.genruntimeconfig.cache
+\\wsl.localhost\ArchL\home\brasse\code\dot-net\2\obj\Debug\net8.0\ref\task 2.dll
