@@ -13,6 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="create_database.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="create_tables.sql">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

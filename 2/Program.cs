@@ -7,9 +7,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        string connectionString = @"Server=localhost\SQLEXPRESS;Database=Competition;Trusted_Connection=True;";
+        string masterConnectionString = @"Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;";
+        string competitionConnectionString = @"Server=localhost\SQLEXPRESS;Database=Competition;Trusted_Connection=True;";
 
-        using (SqlConnection connection = new SqlConnection(connectionString))
+        using (SqlConnection masterConnection = new SqlConnection(masterConnectionString))
+        {
+            masterConnection.Open();
+            ExecuteSqlFromFile(masterConnection, "create_database.sql");
+        }
+
+        using (SqlConnection connection = new SqlConnection(competitionConnectionString))
         {
             connection.Open();
             ExecuteSqlFromFile(connection, "create_tables.sql");

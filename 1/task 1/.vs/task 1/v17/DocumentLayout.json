@@ -1,23 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\brass\\Documents\\code\\task 1\\",
+  "WorkspaceRootPath": "C:\\Users\\brass\\Documents\\code\\1\\task 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40D95E8B-BA0A-49C0-960C-68A588C76D30}|..\\DataAccess\\DataAccess.csproj|c:\\users\\brass\\documents\\code\\dataaccess\\competitionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC47DD68-A27D-4EBD-9786-34E85F8E3469}|..\\DomainModel\\DomainModel.csproj|c:\\users\\brass\\documents\\code\\1\\domainmodel\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40D95E8B-BA0A-49C0-960C-68A588C76D30}|..\\DataAccess\\DataAccess.csproj|c:\\users\\brass\\documents\\code\\dataaccess\\participantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13103530-EABC-44E5-9C22-47A2EDFBC84C}|task 1.csproj|c:\\users\\brass\\documents\\code\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13103530-EABC-44E5-9C22-47A2EDFBC84C}|task 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC47DD68-A27D-4EBD-9786-34E85F8E3469}|..\\DomainModel\\DomainModel.csproj|c:\\users\\brass\\documents\\code\\domainmodel\\competition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13103530-EABC-44E5-9C22-47A2EDFBC84C}|task 1.csproj|c:\\users\\brass\\documents\\code\\task 1\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13103530-EABC-44E5-9C22-47A2EDFBC84C}|task 1.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC47DD68-A27D-4EBD-9786-34E85F8E3469}|..\\DomainModel\\DomainModel.csproj|c:\\users\\brass\\documents\\code\\1\\domainmodel\\initialiser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,78 +15,33 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 217,
+          "DockedWidth": 109,
           "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\brass\\Documents\\code\\task 1\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
-              "ToolTip": "C:\\Users\\brass\\Documents\\code\\task 1\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:42:43.856Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ParticipantRepository.cs",
-              "DocumentMoniker": "C:\\Users\\brass\\Documents\\code\\DataAccess\\ParticipantRepository.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\ParticipantRepository.cs",
-              "ToolTip": "C:\\Users\\brass\\Documents\\code\\DataAccess\\ParticipantRepository.cs",
-              "RelativeToolTip": "..\\DataAccess\\ParticipantRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Title": "Initialiser.cs",
+              "DocumentMoniker": "C:\\Users\\brass\\Documents\\code\\1\\DomainModel\\Initialiser.cs",
+              "RelativeDocumentMoniker": "..\\DomainModel\\Initialiser.cs",
+              "ToolTip": "C:\\Users\\brass\\Documents\\code\\1\\DomainModel\\Initialiser.cs",
+              "RelativeToolTip": "..\\DomainModel\\Initialiser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T09:33:49.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\brass\\Documents\\code\\task 1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\brass\\Documents\\code\\task 1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAQwA4AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T07:04:52.282Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 183,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Competition.cs",
-              "DocumentMoniker": "C:\\Users\\brass\\Documents\\code\\DomainModel\\Competition.cs",
-              "RelativeDocumentMoniker": "..\\DomainModel\\Competition.cs",
-              "ToolTip": "C:\\Users\\brass\\Documents\\code\\DomainModel\\Competition.cs",
-              "RelativeToolTip": "..\\DomainModel\\Competition.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB0AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:34:27.352Z",
+              "WhenOpened": "2024-07-18T08:36:56.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CompetitionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\brass\\Documents\\code\\DataAccess\\CompetitionRepository.cs",
-              "RelativeDocumentMoniker": "..\\DataAccess\\CompetitionRepository.cs",
-              "ToolTip": "C:\\Users\\brass\\Documents\\code\\DataAccess\\CompetitionRepository.cs",
-              "RelativeToolTip": "..\\DataAccess\\CompetitionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Title": "Competition.cs",
+              "DocumentMoniker": "C:\\Users\\brass\\Documents\\code\\1\\DomainModel\\Competition.cs",
+              "RelativeDocumentMoniker": "..\\DomainModel\\Competition.cs",
+              "ToolTip": "C:\\Users\\brass\\Documents\\code\\1\\DomainModel\\Competition.cs",
+              "RelativeToolTip": "..\\DomainModel\\Competition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T09:18:19.032Z",
+              "WhenOpened": "2024-07-18T06:46:20.226Z",
               "EditorCaption": ""
             }
           ]

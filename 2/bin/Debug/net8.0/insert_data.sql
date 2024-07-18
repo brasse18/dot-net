@@ -1,4 +1,4 @@
-﻿-- skiven av Björn Blomberg
+﻿-- skriven av Björn Blomberg
 IF NOT EXISTS (SELECT 1 FROM Competitions)
 BEGIN
     INSERT INTO Competitions (Name) VALUES ('VM in Compiling');

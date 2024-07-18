@@ -1624,11 +1624,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\task 1\\task 1.csproj",
+      "projectUniqueName": "C:\\Users\\brass\\Documents\\code\\1\\task 1\\task 1.csproj",
       "projectName": "task 1",
-      "projectPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\task 1\\task 1.csproj",
+      "projectPath": "C:\\Users\\brass\\Documents\\code\\1\\task 1\\task 1.csproj",
       "packagesPath": "C:\\Users\\brass\\.nuget\\packages\\",
-      "outputPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\task 1\\obj\\",
+      "outputPath": "C:\\Users\\brass\\Documents\\code\\1\\task 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1650,8 +1650,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\brass\\Documents\\code\\1\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\brass\\Documents\\code\\1\\DataAccess\\DataAccess.csproj"
             }
           }
         }

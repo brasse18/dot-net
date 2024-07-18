@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\2\\task 2.csproj",
+      "projectUniqueName": "C:\\Users\\brass\\Documents\\code\\2\\task 2.csproj",
       "projectName": "task 2",
-      "projectPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\2\\task 2.csproj",
+      "projectPath": "C:\\Users\\brass\\Documents\\code\\2\\task 2.csproj",
       "packagesPath": "C:\\Users\\brass\\.nuget\\packages\\",
-      "outputPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\2\\obj\\",
+      "outputPath": "C:\\Users\\brass\\Documents\\code\\2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

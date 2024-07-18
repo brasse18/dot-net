@@ -1586,11 +1586,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DomainModel\\DomainModel.csproj",
+      "projectUniqueName": "C:\\Users\\brass\\Documents\\code\\1\\DomainModel\\DomainModel.csproj",
       "projectName": "DomainModel",
-      "projectPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DomainModel\\DomainModel.csproj",
+      "projectPath": "C:\\Users\\brass\\Documents\\code\\1\\DomainModel\\DomainModel.csproj",
       "packagesPath": "C:\\Users\\brass\\.nuget\\packages\\",
-      "outputPath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DomainModel\\obj\\",
+      "outputPath": "C:\\Users\\brass\\Documents\\code\\1\\DomainModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

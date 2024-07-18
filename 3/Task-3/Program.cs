@@ -1,28 +1,33 @@
 ﻿// skriven av Björn Blomberg
 
-class Uppgift_tre
+public class Uppgift_tre
 {
     public static void Main()
     {
         Console.WriteLine("Task 3");
         Console.WriteLine("Create an unsorted list of integers from 1 to 25 mixed.");
         Console.WriteLine("These integers will then be printed to the console sorted alphabetically by their Swedish names.");
-        int[] numbers = new int[25];
+        int[] numbers;
         Console.WriteLine("Creating the list");
-        for (int i = 0; i < numbers.Length; i++)
-        {
-            numbers[i] = i + 1;
-        }
+        numbers = GenerateIntArr(25);
         Console.WriteLine("Current contents of the list:");
         PrintArr(numbers);
-        Console.WriteLine("");
         Console.WriteLine("Mixing the list");
         numbers = MixArr(numbers);
         Console.WriteLine("Current contents of the list:");
         PrintArr(numbers);
-        Console.WriteLine("");
         Console.WriteLine("Printing in alphabetical order in Swedish:");
-        PrintIntArrToWordsInOrder(numbers);
+        Console.WriteLine(string.Join(" ", IntArrToWordsInOrder(numbers)));
+    }
+
+    public static int[] GenerateIntArr(int rage)
+    {
+        int[] numbers = new int[25];
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            numbers[i] = i + 1;
+        }
+        return numbers;
     }
 
 
@@ -32,9 +37,10 @@ class Uppgift_tre
         {
             Console.Write(arr[i] + " ");
         }
+        Console.WriteLine("");
     }
 
-    static int[] MixArr(int[] arr)
+    public static int[] MixArr(int[] arr)
     {
         Random rand = new Random();
         for (int i = arr.Length - 1; i > 0; i--)
@@ -47,7 +53,7 @@ class Uppgift_tre
         return arr;
     }
 
-    static void PrintIntArrToWordsInOrder(int[] arr)
+    public static List<string> IntArrToWordsInOrder(int[] arr)
     {
         Dictionary<int, string> numberToWords = new Dictionary<int, string> {
             {1, "ett"}, {2, "två"}, {3, "tre"}, {4, "fyra"}, {5, "fem"},
@@ -87,6 +93,6 @@ class Uppgift_tre
 
             return a.Length.CompareTo(b.Length);
         });
-        Console.WriteLine(string.Join(" ", words));
+        return words;
     }
 }

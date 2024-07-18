@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HoBjpRLw7HE=",
+  "dgSpecHash": "zwML5WGzhV8=",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\ArchL\\home\\brasse\\code\\dot-net\\1\\DomainModel\\DomainModel.csproj",
+  "projectFilePath": "C:\\Users\\brass\\Documents\\code\\1\\DomainModel\\DomainModel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brass\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\brass\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
